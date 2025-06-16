@@ -1,6 +1,6 @@
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ Nexcent - Concluído ✅🚀
+	  ⏳ Furniro - em andamento ⏳
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
