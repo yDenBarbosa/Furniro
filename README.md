@@ -47,7 +47,7 @@ Furniro é um site que estou desenvolvendo a partir de um template no Figma, par
 ## 🎨 Layout
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/yDenBarbosa/NexCent/blob/main/src/assets/images/Thumbnail.png)
+![Mobile1](https://github.com/yDenBarbosa/Furniro/blob/main/src/assets/images/Thumbnail.png)
 
 ---
 
