@@ -37,7 +37,7 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Furniro é um site que desenvolvi a partir de um template no Figma, para testar meus conhecimentos em HTML e CSS
+Furniro é um site que estou desenvolvendo a partir de um template no Figma, para testar meus conhecimentos em HTML e CSS
 
 ---
 
